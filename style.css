@@ -1,0 +1,163 @@
+nav {
+  border: 1px solid;
+  display: flex;
+    justify-content: space-between;
+    padding: 12px;
+    align-items: center;
+}
+
+.logo-icon {
+  border: 1px solid;
+  background-image: url(https://picsum.photos/200);
+  height: 25px;
+  width: 50px;
+  background-size: cover;
+  margin-left: 24px;
+}
+
+
+.nav-container {
+  display: flex;
+}
+
+.nav-item {
+  border: 1px solid;
+  padding: 8px;
+}
+
+.main-title {
+  text-align: center;
+}
+
+.main-content{
+  display: flex;
+}
+
+.main-content-item {
+  border: 1px solid;
+    width: 100%;
+    height: 250px;
+    margin-left: 24px;
+    margin-right: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.main-content-banner {
+  height: 150px;
+  width: 100%;
+  border: 1px solid;
+  background-image: url(https://picsum.photos/200);
+}
+
+.item-icon{
+  height: 25px;
+    width: 25px;
+    border: 1px solid;
+    background-image: url(https://picsum.photos/25);
+    border-radius: 50%;
+}
+
+.item-icon{
+    height: 25px;
+    width: 25px;
+    border: 1px solid;
+    background-image: url(https://picsum.photos/25);
+    border-radius: 50%;
+    align-content: center;
+}
+
+.item {
+    height: 25px;
+    width: 25px;
+    border: 1px solid;
+    background-image: url(https://picsum.photos/25);
+    border-radius: 50%;
+    align-content: center;
+}
+.main-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.input {
+  width: 20%;
+  padding: 12px 20px;
+  margin: 2px 0;
+  display: inline-block;
+  border: 1px solid black;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: medium;
+}
+
+input {
+  width: 75%;
+  padding: 12px 20px;
+  margin: 2px 0;
+  display: inline-block;
+  border: 1px solid black;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: medium;
+}
+
+input {
+  width: 75%;
+  padding: 12px 20px;
+  margin: 2px 0;
+  display: inline-block;
+  border: 1px solid black;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: medium;
+}
+
+.contact {
+  margin: 1px 0;
+}
+
+.foot-item {
+  display: flex;
+  justify-content: center;
+}
+
+.our {
+  display: flex;
+  justify-content: center;
+}
+
+.second-content-item {
+  border: 1px solid;
+    width: 98%;
+    height: 250px;
+    margin-left: 24px;
+    margin-right: 24px;
+    display: flex;
+    flex-direction: column;
+}
+
+.second-main-item {
+  display: flex;
+  align-items: center;
+}
+
+.second-item-icon{
+  height: 20px;
+  width: 30px;
+  border: 1px solid;
+  background-image: url(https://picsum.photos/25);
+  border-radius: 50%;
+}
+
+.container {
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
